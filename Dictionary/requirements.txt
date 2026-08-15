@@ -1,0 +1,4 @@
+pygame
+requests
+beautifulsoup4
+opencv-python
