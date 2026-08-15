@@ -1,4 +1,4 @@
+sounddevice
+numpy
 pygame
-requests
-beautifulsoup4
-opencv-python
+gTTS
