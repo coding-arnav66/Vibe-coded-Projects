@@ -1,7 +1,8 @@
-# Python Projects Collection 🐍✨
+# Python's vibecoded Projects Collection 🐍✨
 
-A collection of four interactive Python projects showcasing automation, GUI dashboards, and computer vision.  
+A collection of interactive Python projects showcasing automation, GUI dashboards, and computer vision.  
 Each project is self-contained but follows a clean structure with documentation and requirements.
+**~Created by Arnav Saket(14y/o)**
 
 ---
 
